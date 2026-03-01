@@ -1,0 +1,7 @@
+requests>=2.31.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+scikit-learn>=1.3.0
+# Optional: only needed when using --use-playwright
+playwright>=1.42.0
