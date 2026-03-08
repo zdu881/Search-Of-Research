@@ -1,0 +1,705 @@
+{
+  "generated_at_utc": "2026-03-01T07:41:47.516955+00:00",
+  "paper_count_total": 204,
+  "conferences": [
+    "MIDL",
+    "EMNLP"
+  ],
+  "conference_summary": {
+    "MIDL": {
+      "paper_count": 196,
+      "track_counts": {
+        "oral": 32,
+        "poster": 77,
+        "unknown": 87
+      },
+      "top_keywords": [
+        {
+          "term": "segmentation",
+          "count": 36
+        },
+        {
+          "term": "deep learning",
+          "count": 29
+        },
+        {
+          "term": "diffusion model",
+          "count": 16
+        },
+        {
+          "term": "mri",
+          "count": 15
+        },
+        {
+          "term": "classification",
+          "count": 14
+        },
+        {
+          "term": "foundation model",
+          "count": 13
+        },
+        {
+          "term": "detection",
+          "count": 13
+        },
+        {
+          "term": "medical",
+          "count": 12
+        },
+        {
+          "term": "transformer",
+          "count": 12
+        },
+        {
+          "term": "diffusion",
+          "count": 10
+        },
+        {
+          "term": "multimodal",
+          "count": 10
+        },
+        {
+          "term": "image",
+          "count": 9
+        },
+        {
+          "term": "medical image segmentation",
+          "count": 9
+        },
+        {
+          "term": "registration",
+          "count": 8
+        },
+        {
+          "term": "brain",
+          "count": 8
+        },
+        {
+          "term": "dataset",
+          "count": 8
+        },
+        {
+          "term": "foundation",
+          "count": 8
+        },
+        {
+          "term": "image segmentation",
+          "count": 8
+        },
+        {
+          "term": "attention",
+          "count": 7
+        },
+        {
+          "term": "fusion",
+          "count": 7
+        },
+        {
+          "term": "prediction",
+          "count": 7
+        },
+        {
+          "term": "chest x-ray",
+          "count": 7
+        },
+        {
+          "term": "surgical",
+          "count": 7
+        },
+        {
+          "term": "vision transformer",
+          "count": 7
+        },
+        {
+          "term": "lesion",
+          "count": 7
+        },
+        {
+          "term": "reconstruction",
+          "count": 6
+        },
+        {
+          "term": "medical imaging",
+          "count": 6
+        },
+        {
+          "term": "uncertainty",
+          "count": 6
+        },
+        {
+          "term": "stage",
+          "count": 6
+        },
+        {
+          "term": "digital pathology",
+          "count": 6
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "Vision",
+          "count": 164
+        },
+        {
+          "term": "LLM",
+          "count": 40
+        },
+        {
+          "term": "Graphs",
+          "count": 37
+        },
+        {
+          "term": "Diffusion",
+          "count": 32
+        },
+        {
+          "term": "Optimization and Theory",
+          "count": 23
+        },
+        {
+          "term": "Multimodal",
+          "count": 21
+        },
+        {
+          "term": "Alignment and Safety",
+          "count": 19
+        },
+        {
+          "term": "Other",
+          "count": 15
+        },
+        {
+          "term": "Reasoning and Agents",
+          "count": 13
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 13
+        },
+        {
+          "term": "Reinforcement Learning",
+          "count": 1
+        }
+      ]
+    },
+    "EMNLP": {
+      "paper_count": 8,
+      "track_counts": {
+        "unknown": 8
+      },
+      "top_keywords": [
+        {
+          "term": "knowledge",
+          "count": 2
+        },
+        {
+          "term": "generation",
+          "count": 2
+        },
+        {
+          "term": "llm",
+          "count": 2
+        },
+        {
+          "term": "report",
+          "count": 1
+        },
+        {
+          "term": "radiology",
+          "count": 1
+        },
+        {
+          "term": "radiology report",
+          "count": 1
+        },
+        {
+          "term": "generate",
+          "count": 1
+        },
+        {
+          "term": "medical image",
+          "count": 1
+        },
+        {
+          "term": "bias",
+          "count": 1
+        },
+        {
+          "term": "group",
+          "count": 1
+        },
+        {
+          "term": "benchmark",
+          "count": 1
+        },
+        {
+          "term": "time",
+          "count": 1
+        },
+        {
+          "term": "interval",
+          "count": 1
+        },
+        {
+          "term": "teacher",
+          "count": 1
+        },
+        {
+          "term": "optimization",
+          "count": 1
+        },
+        {
+          "term": "distribution",
+          "count": 1
+        },
+        {
+          "term": "reasoning",
+          "count": 1
+        },
+        {
+          "term": "diversity",
+          "count": 1
+        },
+        {
+          "term": "paradigm",
+          "count": 1
+        },
+        {
+          "term": "causality",
+          "count": 1
+        },
+        {
+          "term": "task",
+          "count": 1
+        },
+        {
+          "term": "agent",
+          "count": 1
+        },
+        {
+          "term": "planning",
+          "count": 1
+        },
+        {
+          "term": "research",
+          "count": 1
+        },
+        {
+          "term": "medical",
+          "count": 1
+        },
+        {
+          "term": "question",
+          "count": 1
+        },
+        {
+          "term": "relevance",
+          "count": 1
+        },
+        {
+          "term": "clinical",
+          "count": 1
+        },
+        {
+          "term": "system",
+          "count": 1
+        },
+        {
+          "term": "custom",
+          "count": 1
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "LLM",
+          "count": 8
+        },
+        {
+          "term": "Reasoning and Agents",
+          "count": 4
+        },
+        {
+          "term": "Reinforcement Learning",
+          "count": 2
+        },
+        {
+          "term": "Optimization and Theory",
+          "count": 2
+        },
+        {
+          "term": "Multimodal",
+          "count": 1
+        },
+        {
+          "term": "Vision",
+          "count": 1
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 1
+        },
+        {
+          "term": "Graphs",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "global_top_keywords": [
+    {
+      "term": "segmentation",
+      "count": 36
+    },
+    {
+      "term": "deep learning",
+      "count": 29
+    },
+    {
+      "term": "diffusion model",
+      "count": 16
+    },
+    {
+      "term": "mri",
+      "count": 15
+    },
+    {
+      "term": "classification",
+      "count": 14
+    },
+    {
+      "term": "foundation model",
+      "count": 13
+    },
+    {
+      "term": "medical",
+      "count": 13
+    },
+    {
+      "term": "detection",
+      "count": 13
+    },
+    {
+      "term": "transformer",
+      "count": 12
+    },
+    {
+      "term": "diffusion",
+      "count": 10
+    },
+    {
+      "term": "multimodal",
+      "count": 10
+    },
+    {
+      "term": "image",
+      "count": 9
+    },
+    {
+      "term": "medical image segmentation",
+      "count": 9
+    },
+    {
+      "term": "registration",
+      "count": 8
+    },
+    {
+      "term": "brain",
+      "count": 8
+    },
+    {
+      "term": "dataset",
+      "count": 8
+    },
+    {
+      "term": "prediction",
+      "count": 8
+    },
+    {
+      "term": "foundation",
+      "count": 8
+    },
+    {
+      "term": "image segmentation",
+      "count": 8
+    },
+    {
+      "term": "representation",
+      "count": 7
+    },
+    {
+      "term": "attention",
+      "count": 7
+    },
+    {
+      "term": "fusion",
+      "count": 7
+    },
+    {
+      "term": "chest x-ray",
+      "count": 7
+    },
+    {
+      "term": "surgical",
+      "count": 7
+    },
+    {
+      "term": "vision transformer",
+      "count": 7
+    },
+    {
+      "term": "lesion",
+      "count": 7
+    },
+    {
+      "term": "reconstruction",
+      "count": 6
+    },
+    {
+      "term": "medical imaging",
+      "count": 6
+    },
+    {
+      "term": "uncertainty",
+      "count": 6
+    },
+    {
+      "term": "stage",
+      "count": 6
+    },
+    {
+      "term": "digital pathology",
+      "count": 6
+    },
+    {
+      "term": "synthetic",
+      "count": 6
+    },
+    {
+      "term": "vision-llm",
+      "count": 6
+    },
+    {
+      "term": "cardiac",
+      "count": 6
+    },
+    {
+      "term": "self-supervised learning",
+      "count": 6
+    },
+    {
+      "term": "mri reconstruction",
+      "count": 5
+    },
+    {
+      "term": "cell",
+      "count": 5
+    },
+    {
+      "term": "llm",
+      "count": 5
+    },
+    {
+      "term": "echocardiography",
+      "count": 5
+    },
+    {
+      "term": "video",
+      "count": 5
+    },
+    {
+      "term": "histopathology",
+      "count": 5
+    },
+    {
+      "term": "pathology",
+      "count": 5
+    },
+    {
+      "term": "training",
+      "count": 5
+    },
+    {
+      "term": "ultrasound",
+      "count": 5
+    },
+    {
+      "term": "scan",
+      "count": 5
+    },
+    {
+      "term": "data augmentation",
+      "count": 5
+    },
+    {
+      "term": "resolution",
+      "count": 5
+    },
+    {
+      "term": "feature",
+      "count": 5
+    },
+    {
+      "term": "multimodal learning",
+      "count": 5
+    },
+    {
+      "term": "breast",
+      "count": 5
+    },
+    {
+      "term": "cancer",
+      "count": 5
+    },
+    {
+      "term": "ssl",
+      "count": 5
+    },
+    {
+      "term": "bias",
+      "count": 5
+    },
+    {
+      "term": "time",
+      "count": 4
+    },
+    {
+      "term": "quality",
+      "count": 4
+    },
+    {
+      "term": "mamba",
+      "count": 4
+    },
+    {
+      "term": "sequence",
+      "count": 4
+    },
+    {
+      "term": "anatomical",
+      "count": 4
+    },
+    {
+      "term": "generative model",
+      "count": 4
+    },
+    {
+      "term": "image registration",
+      "count": 4
+    }
+  ],
+  "global_top_themes": [
+    {
+      "term": "Vision",
+      "count": 165
+    },
+    {
+      "term": "LLM",
+      "count": 48
+    },
+    {
+      "term": "Graphs",
+      "count": 38
+    },
+    {
+      "term": "Diffusion",
+      "count": 32
+    },
+    {
+      "term": "Optimization and Theory",
+      "count": 25
+    },
+    {
+      "term": "Multimodal",
+      "count": 22
+    },
+    {
+      "term": "Alignment and Safety",
+      "count": 19
+    },
+    {
+      "term": "Reasoning and Agents",
+      "count": 17
+    },
+    {
+      "term": "Other",
+      "count": 15
+    },
+    {
+      "term": "Robotics and Control",
+      "count": 14
+    },
+    {
+      "term": "Reinforcement Learning",
+      "count": 3
+    }
+  ],
+  "trends": {
+    "continuing_hotspots": [],
+    "emerging_trends": [
+      {
+        "theme": "Graphs",
+        "paper_mentions": 38,
+        "conference_presence": 2,
+        "oral_spotlight_ratio": 0.2368,
+        "max_conference_share": 0.9737,
+        "emerging_score": 0.9158
+      },
+      {
+        "theme": "Diffusion",
+        "paper_mentions": 32,
+        "conference_presence": 1,
+        "oral_spotlight_ratio": 0.1875,
+        "max_conference_share": 1.0,
+        "emerging_score": 0.9156
+      },
+      {
+        "theme": "Vision",
+        "paper_mentions": 165,
+        "conference_presence": 2,
+        "oral_spotlight_ratio": 0.1636,
+        "max_conference_share": 0.9939,
+        "emerging_score": 0.9033
+      },
+      {
+        "theme": "Optimization and Theory",
+        "paper_mentions": 25,
+        "conference_presence": 2,
+        "oral_spotlight_ratio": 0.08,
+        "max_conference_share": 0.92,
+        "emerging_score": 0.826
+      },
+      {
+        "theme": "LLM",
+        "paper_mentions": 48,
+        "conference_presence": 2,
+        "oral_spotlight_ratio": 0.0625,
+        "max_conference_share": 0.8333,
+        "emerging_score": 0.7635
+      }
+    ],
+    "continuing_keywords": [],
+    "emerging_keywords": [
+      {
+        "keyword": "deep learning",
+        "mentions": 29,
+        "conference_presence": 1,
+        "max_conference_share": 1.0,
+        "oral_spotlight_ratio": 0.1034,
+        "emerging_score": 0.731
+      },
+      {
+        "keyword": "segmentation",
+        "mentions": 36,
+        "conference_presence": 1,
+        "max_conference_share": 1.0,
+        "oral_spotlight_ratio": 0.0833,
+        "emerging_score": 0.725
+      }
+    ],
+    "heuristic_notes": [
+      "continuing_hotspots: present in all 3 conferences + high mention count",
+      "emerging_trends: theme-level concentration + venue-quality weighted score",
+      "keyword trends are term-level signals and may be noisy after normalization"
+    ]
+  }
+}

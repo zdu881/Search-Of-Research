@@ -1,0 +1,1554 @@
+{
+  "generated_at_utc": "2026-03-01T07:43:18.033574+00:00",
+  "paper_count_total": 12454,
+  "conferences": [
+    "ICLR",
+    "NeurIPS",
+    "ICML",
+    "MIDL",
+    "EMNLP"
+  ],
+  "conference_summary": {
+    "ICLR": {
+      "paper_count": 3703,
+      "track_counts": {
+        "oral": 213,
+        "spotlight": 380,
+        "poster": 3110
+      },
+      "top_keywords": [
+        {
+          "term": "llm",
+          "count": 717
+        },
+        {
+          "term": "diffusion model",
+          "count": 241
+        },
+        {
+          "term": "reinforcement learning",
+          "count": 168
+        },
+        {
+          "term": "diffusion",
+          "count": 163
+        },
+        {
+          "term": "transformer",
+          "count": 131
+        },
+        {
+          "term": "generative model",
+          "count": 117
+        },
+        {
+          "term": "graph",
+          "count": 112
+        },
+        {
+          "term": "benchmark",
+          "count": 106
+        },
+        {
+          "term": "video",
+          "count": 105
+        },
+        {
+          "term": "reasoning",
+          "count": 103
+        },
+        {
+          "term": "data",
+          "count": 100
+        },
+        {
+          "term": "multimodal",
+          "count": 100
+        },
+        {
+          "term": "alignment",
+          "count": 98
+        },
+        {
+          "term": "gnn",
+          "count": 96
+        },
+        {
+          "term": "agent",
+          "count": 95
+        },
+        {
+          "term": "evaluation",
+          "count": 92
+        },
+        {
+          "term": "image",
+          "count": 87
+        },
+        {
+          "term": "interpretability",
+          "count": 86
+        },
+        {
+          "term": "representation learning",
+          "count": 81
+        },
+        {
+          "term": "generation",
+          "count": 74
+        },
+        {
+          "term": "preference",
+          "count": 71
+        },
+        {
+          "term": "visual",
+          "count": 68
+        },
+        {
+          "term": "deep learning",
+          "count": 67
+        },
+        {
+          "term": "optimization",
+          "count": 67
+        },
+        {
+          "term": "representation",
+          "count": 63
+        },
+        {
+          "term": "fine-tuning",
+          "count": 62
+        },
+        {
+          "term": "dataset",
+          "count": 62
+        },
+        {
+          "term": "attack",
+          "count": 60
+        },
+        {
+          "term": "human",
+          "count": 59
+        },
+        {
+          "term": "generalization",
+          "count": 58
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "LLM",
+          "count": 1488
+        },
+        {
+          "term": "Optimization and Theory",
+          "count": 1324
+        },
+        {
+          "term": "Vision",
+          "count": 1244
+        },
+        {
+          "term": "Reasoning and Agents",
+          "count": 780
+        },
+        {
+          "term": "Alignment and Safety",
+          "count": 762
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 620
+        },
+        {
+          "term": "Diffusion",
+          "count": 555
+        },
+        {
+          "term": "Graphs",
+          "count": 448
+        },
+        {
+          "term": "Reinforcement Learning",
+          "count": 421
+        },
+        {
+          "term": "Multimodal",
+          "count": 377
+        },
+        {
+          "term": "Other",
+          "count": 211
+        }
+      ]
+    },
+    "NeurIPS": {
+      "paper_count": 5290,
+      "track_counts": {
+        "oral": 77,
+        "spotlight": 688,
+        "poster": 4525
+      },
+      "top_keywords": [
+        {
+          "term": "llm",
+          "count": 708
+        },
+        {
+          "term": "reasoning",
+          "count": 313
+        },
+        {
+          "term": "reinforcement learning",
+          "count": 305
+        },
+        {
+          "term": "diffusion model",
+          "count": 281
+        },
+        {
+          "term": "diffusion",
+          "count": 184
+        },
+        {
+          "term": "video",
+          "count": 151
+        },
+        {
+          "term": "transformer",
+          "count": 144
+        },
+        {
+          "term": "graph",
+          "count": 138
+        },
+        {
+          "term": "generative model",
+          "count": 132
+        },
+        {
+          "term": "multimodal",
+          "count": 129
+        },
+        {
+          "term": "optimization",
+          "count": 121
+        },
+        {
+          "term": "image",
+          "count": 116
+        },
+        {
+          "term": "agent",
+          "count": 115
+        },
+        {
+          "term": "generation",
+          "count": 104
+        },
+        {
+          "term": "visual",
+          "count": 104
+        },
+        {
+          "term": "attention",
+          "count": 100
+        },
+        {
+          "term": "interpretability",
+          "count": 97
+        },
+        {
+          "term": "gnn",
+          "count": 94
+        },
+        {
+          "term": "token",
+          "count": 93
+        },
+        {
+          "term": "representation learning",
+          "count": 93
+        },
+        {
+          "term": "alignment",
+          "count": 91
+        },
+        {
+          "term": "textbf",
+          "count": 87
+        },
+        {
+          "term": "deep learning",
+          "count": 85
+        },
+        {
+          "term": "mllm",
+          "count": 84
+        },
+        {
+          "term": "dynamic",
+          "count": 83
+        },
+        {
+          "term": "generalization",
+          "count": 80
+        },
+        {
+          "term": "detection",
+          "count": 80
+        },
+        {
+          "term": "multimodal llm",
+          "count": 79
+        },
+        {
+          "term": "scene",
+          "count": 76
+        },
+        {
+          "term": "object",
+          "count": 76
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "Optimization and Theory",
+          "count": 2323
+        },
+        {
+          "term": "LLM",
+          "count": 1872
+        },
+        {
+          "term": "Vision",
+          "count": 1416
+        },
+        {
+          "term": "Reasoning and Agents",
+          "count": 1186
+        },
+        {
+          "term": "Alignment and Safety",
+          "count": 966
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 915
+        },
+        {
+          "term": "Diffusion",
+          "count": 805
+        },
+        {
+          "term": "Reinforcement Learning",
+          "count": 705
+        },
+        {
+          "term": "Graphs",
+          "count": 618
+        },
+        {
+          "term": "Multimodal",
+          "count": 600
+        },
+        {
+          "term": "Other",
+          "count": 353
+        }
+      ]
+    },
+    "ICML": {
+      "paper_count": 3257,
+      "track_counts": {
+        "oral": 108,
+        "spotlight": 211,
+        "poster": 2938
+      },
+      "top_keywords": [
+        {
+          "term": "llm",
+          "count": 453
+        },
+        {
+          "term": "diffusion model",
+          "count": 167
+        },
+        {
+          "term": "reinforcement learning",
+          "count": 146
+        },
+        {
+          "term": "graph",
+          "count": 128
+        },
+        {
+          "term": "diffusion",
+          "count": 114
+        },
+        {
+          "term": "transformer",
+          "count": 98
+        },
+        {
+          "term": "reasoning",
+          "count": 98
+        },
+        {
+          "term": "gnn",
+          "count": 88
+        },
+        {
+          "term": "agent",
+          "count": 83
+        },
+        {
+          "term": "generalization",
+          "count": 73
+        },
+        {
+          "term": "optimization",
+          "count": 71
+        },
+        {
+          "term": "interpretability",
+          "count": 70
+        },
+        {
+          "term": "generative model",
+          "count": 70
+        },
+        {
+          "term": "attention",
+          "count": 67
+        },
+        {
+          "term": "multimodal",
+          "count": 66
+        },
+        {
+          "term": "data",
+          "count": 64
+        },
+        {
+          "term": "deep learning",
+          "count": 62
+        },
+        {
+          "term": "robustness",
+          "count": 62
+        },
+        {
+          "term": "representation learning",
+          "count": 61
+        },
+        {
+          "term": "alignment",
+          "count": 60
+        },
+        {
+          "term": "reward",
+          "count": 59
+        },
+        {
+          "term": "clustering",
+          "count": 59
+        },
+        {
+          "term": "preference",
+          "count": 58
+        },
+        {
+          "term": "federated learning",
+          "count": 58
+        },
+        {
+          "term": "benchmark",
+          "count": 57
+        },
+        {
+          "term": "feature",
+          "count": 56
+        },
+        {
+          "term": "prediction",
+          "count": 55
+        },
+        {
+          "term": "image",
+          "count": 55
+        },
+        {
+          "term": "time serie",
+          "count": 52
+        },
+        {
+          "term": "in context learning",
+          "count": 52
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "Optimization and Theory",
+          "count": 1422
+        },
+        {
+          "term": "LLM",
+          "count": 1048
+        },
+        {
+          "term": "Vision",
+          "count": 661
+        },
+        {
+          "term": "Alignment and Safety",
+          "count": 585
+        },
+        {
+          "term": "Reasoning and Agents",
+          "count": 567
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 435
+        },
+        {
+          "term": "Graphs",
+          "count": 419
+        },
+        {
+          "term": "Reinforcement Learning",
+          "count": 405
+        },
+        {
+          "term": "Diffusion",
+          "count": 384
+        },
+        {
+          "term": "Other",
+          "count": 281
+        },
+        {
+          "term": "Multimodal",
+          "count": 242
+        }
+      ]
+    },
+    "MIDL": {
+      "paper_count": 196,
+      "track_counts": {
+        "oral": 32,
+        "poster": 77,
+        "unknown": 87
+      },
+      "top_keywords": [
+        {
+          "term": "segmentation",
+          "count": 47
+        },
+        {
+          "term": "deep learning",
+          "count": 31
+        },
+        {
+          "term": "medical",
+          "count": 28
+        },
+        {
+          "term": "mri",
+          "count": 20
+        },
+        {
+          "term": "imaging",
+          "count": 15
+        },
+        {
+          "term": "medical image",
+          "count": 15
+        },
+        {
+          "term": "foundation model",
+          "count": 14
+        },
+        {
+          "term": "classification",
+          "count": 14
+        },
+        {
+          "term": "detection",
+          "count": 14
+        },
+        {
+          "term": "diffusion model",
+          "count": 12
+        },
+        {
+          "term": "medical imaging",
+          "count": 11
+        },
+        {
+          "term": "scan",
+          "count": 11
+        },
+        {
+          "term": "clinical",
+          "count": 10
+        },
+        {
+          "term": "transformer",
+          "count": 10
+        },
+        {
+          "term": "image",
+          "count": 9
+        },
+        {
+          "term": "brain",
+          "count": 9
+        },
+        {
+          "term": "lesion",
+          "count": 9
+        },
+        {
+          "term": "foundation",
+          "count": 9
+        },
+        {
+          "term": "medical image segmentation",
+          "count": 9
+        },
+        {
+          "term": "image segmentation",
+          "count": 9
+        },
+        {
+          "term": "registration",
+          "count": 8
+        },
+        {
+          "term": "cancer",
+          "count": 8
+        },
+        {
+          "term": "cell",
+          "count": 7
+        },
+        {
+          "term": "pathology",
+          "count": 7
+        },
+        {
+          "term": "chest x-ray",
+          "count": 7
+        },
+        {
+          "term": "surgical",
+          "count": 7
+        },
+        {
+          "term": "vision transformer",
+          "count": 7
+        },
+        {
+          "term": "chest",
+          "count": 7
+        },
+        {
+          "term": "radiology",
+          "count": 7
+        },
+        {
+          "term": "anatomical",
+          "count": 6
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "Vision",
+          "count": 164
+        },
+        {
+          "term": "LLM",
+          "count": 40
+        },
+        {
+          "term": "Graphs",
+          "count": 37
+        },
+        {
+          "term": "Diffusion",
+          "count": 32
+        },
+        {
+          "term": "Optimization and Theory",
+          "count": 23
+        },
+        {
+          "term": "Multimodal",
+          "count": 21
+        },
+        {
+          "term": "Alignment and Safety",
+          "count": 19
+        },
+        {
+          "term": "Other",
+          "count": 15
+        },
+        {
+          "term": "Reasoning and Agents",
+          "count": 13
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 13
+        },
+        {
+          "term": "Reinforcement Learning",
+          "count": 1
+        }
+      ]
+    },
+    "EMNLP": {
+      "paper_count": 8,
+      "track_counts": {
+        "unknown": 8
+      },
+      "top_keywords": [
+        {
+          "term": "medical",
+          "count": 2
+        },
+        {
+          "term": "knowledge",
+          "count": 2
+        },
+        {
+          "term": "report",
+          "count": 1
+        },
+        {
+          "term": "radiology",
+          "count": 1
+        },
+        {
+          "term": "medical image",
+          "count": 1
+        },
+        {
+          "term": "report generation",
+          "count": 1
+        },
+        {
+          "term": "bias",
+          "count": 1
+        },
+        {
+          "term": "group",
+          "count": 1
+        },
+        {
+          "term": "textit",
+          "count": 1
+        },
+        {
+          "term": "knowledge large",
+          "count": 1
+        },
+        {
+          "term": "benchmark evaluating",
+          "count": 1
+        },
+        {
+          "term": "student",
+          "count": 1
+        },
+        {
+          "term": "teacher",
+          "count": 1
+        },
+        {
+          "term": "distillation",
+          "count": 1
+        },
+        {
+          "term": "mode",
+          "count": 1
+        },
+        {
+          "term": "chain of thought",
+          "count": 1
+        },
+        {
+          "term": "mode collapse",
+          "count": 1
+        },
+        {
+          "term": "causality",
+          "count": 1
+        },
+        {
+          "term": "multi-agent",
+          "count": 1
+        },
+        {
+          "term": "cooperative",
+          "count": 1
+        },
+        {
+          "term": "planning",
+          "count": 1
+        },
+        {
+          "term": "task",
+          "count": 1
+        },
+        {
+          "term": "agent",
+          "count": 1
+        },
+        {
+          "term": "conceptual",
+          "count": 1
+        },
+        {
+          "term": "retrieval",
+          "count": 1
+        },
+        {
+          "term": "factual",
+          "count": 1
+        },
+        {
+          "term": "rag",
+          "count": 1
+        },
+        {
+          "term": "multilingual",
+          "count": 1
+        },
+        {
+          "term": "parsing",
+          "count": 1
+        },
+        {
+          "term": "custom",
+          "count": 1
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "LLM",
+          "count": 8
+        },
+        {
+          "term": "Reasoning and Agents",
+          "count": 4
+        },
+        {
+          "term": "Reinforcement Learning",
+          "count": 2
+        },
+        {
+          "term": "Optimization and Theory",
+          "count": 2
+        },
+        {
+          "term": "Multimodal",
+          "count": 1
+        },
+        {
+          "term": "Vision",
+          "count": 1
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 1
+        },
+        {
+          "term": "Graphs",
+          "count": 1
+        }
+      ]
+    }
+  },
+  "global_top_keywords": [
+    {
+      "term": "llm",
+      "count": 1881
+    },
+    {
+      "term": "diffusion model",
+      "count": 701
+    },
+    {
+      "term": "reinforcement learning",
+      "count": 619
+    },
+    {
+      "term": "reasoning",
+      "count": 514
+    },
+    {
+      "term": "diffusion",
+      "count": 466
+    },
+    {
+      "term": "transformer",
+      "count": 383
+    },
+    {
+      "term": "graph",
+      "count": 380
+    },
+    {
+      "term": "generative model",
+      "count": 323
+    },
+    {
+      "term": "multimodal",
+      "count": 301
+    },
+    {
+      "term": "video",
+      "count": 298
+    },
+    {
+      "term": "agent",
+      "count": 295
+    },
+    {
+      "term": "gnn",
+      "count": 280
+    },
+    {
+      "term": "image",
+      "count": 267
+    },
+    {
+      "term": "optimization",
+      "count": 259
+    },
+    {
+      "term": "interpretability",
+      "count": 254
+    },
+    {
+      "term": "alignment",
+      "count": 249
+    },
+    {
+      "term": "deep learning",
+      "count": 245
+    },
+    {
+      "term": "data",
+      "count": 238
+    },
+    {
+      "term": "representation learning",
+      "count": 237
+    },
+    {
+      "term": "attention",
+      "count": 226
+    },
+    {
+      "term": "generation",
+      "count": 218
+    },
+    {
+      "term": "visual",
+      "count": 213
+    },
+    {
+      "term": "generalization",
+      "count": 211
+    },
+    {
+      "term": "preference",
+      "count": 200
+    },
+    {
+      "term": "token",
+      "count": 186
+    },
+    {
+      "term": "reward",
+      "count": 184
+    },
+    {
+      "term": "benchmark",
+      "count": 182
+    },
+    {
+      "term": "foundation model",
+      "count": 181
+    },
+    {
+      "term": "dynamic",
+      "count": 178
+    },
+    {
+      "term": "fine-tuning",
+      "count": 174
+    },
+    {
+      "term": "attack",
+      "count": 174
+    },
+    {
+      "term": "robustness",
+      "count": 172
+    },
+    {
+      "term": "evaluation",
+      "count": 171
+    },
+    {
+      "term": "safety",
+      "count": 171
+    },
+    {
+      "term": "causal",
+      "count": 171
+    },
+    {
+      "term": "feature",
+      "count": 170
+    },
+    {
+      "term": "prediction",
+      "count": 167
+    },
+    {
+      "term": "detection",
+      "count": 166
+    },
+    {
+      "term": "multimodal llm",
+      "count": 165
+    },
+    {
+      "term": "segmentation",
+      "count": 164
+    },
+    {
+      "term": "vision-llm",
+      "count": 161
+    },
+    {
+      "term": "adversarial",
+      "count": 161
+    },
+    {
+      "term": "representation",
+      "count": 160
+    },
+    {
+      "term": "textbf",
+      "count": 157
+    },
+    {
+      "term": "latent",
+      "count": 156
+    },
+    {
+      "term": "federated learning",
+      "count": 155
+    },
+    {
+      "term": "time serie",
+      "count": 155
+    },
+    {
+      "term": "mllm",
+      "count": 155
+    },
+    {
+      "term": "policy",
+      "count": 154
+    },
+    {
+      "term": "neural",
+      "count": 152
+    },
+    {
+      "term": "in context learning",
+      "count": 150
+    },
+    {
+      "term": "knowledge",
+      "count": 149
+    },
+    {
+      "term": "object",
+      "count": 145
+    },
+    {
+      "term": "compression",
+      "count": 140
+    },
+    {
+      "term": "algorithm",
+      "count": 140
+    },
+    {
+      "term": "memory",
+      "count": 138
+    },
+    {
+      "term": "prompt",
+      "count": 138
+    },
+    {
+      "term": "gradient",
+      "count": 134
+    },
+    {
+      "term": "flow",
+      "count": 134
+    },
+    {
+      "term": "quantization",
+      "count": 132
+    }
+  ],
+  "global_top_themes": [
+    {
+      "term": "Optimization and Theory",
+      "count": 5094
+    },
+    {
+      "term": "LLM",
+      "count": 4456
+    },
+    {
+      "term": "Vision",
+      "count": 3486
+    },
+    {
+      "term": "Reasoning and Agents",
+      "count": 2550
+    },
+    {
+      "term": "Alignment and Safety",
+      "count": 2332
+    },
+    {
+      "term": "Robotics and Control",
+      "count": 1984
+    },
+    {
+      "term": "Diffusion",
+      "count": 1776
+    },
+    {
+      "term": "Reinforcement Learning",
+      "count": 1534
+    },
+    {
+      "term": "Graphs",
+      "count": 1523
+    },
+    {
+      "term": "Multimodal",
+      "count": 1241
+    },
+    {
+      "term": "Other",
+      "count": 860
+    }
+  ],
+  "trends": {
+    "continuing_hotspots": [
+      {
+        "theme": "Optimization and Theory",
+        "paper_mentions": 5094,
+        "conference_presence": 5,
+        "oral_spotlight_ratio": 0.1423,
+        "max_conference_share": 0.456
+      },
+      {
+        "theme": "LLM",
+        "paper_mentions": 4456,
+        "conference_presence": 5,
+        "oral_spotlight_ratio": 0.1371,
+        "max_conference_share": 0.4201
+      },
+      {
+        "theme": "Vision",
+        "paper_mentions": 3486,
+        "conference_presence": 5,
+        "oral_spotlight_ratio": 0.1325,
+        "max_conference_share": 0.4062
+      },
+      {
+        "theme": "Reasoning and Agents",
+        "paper_mentions": 2550,
+        "conference_presence": 5,
+        "oral_spotlight_ratio": 0.1427,
+        "max_conference_share": 0.4651
+      },
+      {
+        "theme": "Alignment and Safety",
+        "paper_mentions": 2332,
+        "conference_presence": 4,
+        "oral_spotlight_ratio": 0.1329,
+        "max_conference_share": 0.4142
+      },
+      {
+        "theme": "Robotics and Control",
+        "paper_mentions": 1984,
+        "conference_presence": 5,
+        "oral_spotlight_ratio": 0.1411,
+        "max_conference_share": 0.4612
+      },
+      {
+        "theme": "Diffusion",
+        "paper_mentions": 1776,
+        "conference_presence": 4,
+        "oral_spotlight_ratio": 0.1447,
+        "max_conference_share": 0.4533
+      },
+      {
+        "theme": "Reinforcement Learning",
+        "paper_mentions": 1534,
+        "conference_presence": 5,
+        "oral_spotlight_ratio": 0.1317,
+        "max_conference_share": 0.4596
+      }
+    ],
+    "emerging_trends": [
+      {
+        "theme": "Multimodal",
+        "paper_mentions": 1241,
+        "conference_presence": 5,
+        "oral_spotlight_ratio": 0.1257,
+        "max_conference_share": 0.4835,
+        "emerging_score": 0.3583
+      },
+      {
+        "theme": "Graphs",
+        "paper_mentions": 1523,
+        "conference_presence": 5,
+        "oral_spotlight_ratio": 0.1366,
+        "max_conference_share": 0.4058,
+        "emerging_score": 0.3116
+      }
+    ],
+    "continuing_keywords": [
+      {
+        "keyword": "llm",
+        "mentions": 1881,
+        "conference_presence": 4,
+        "max_conference_share": 0.3812,
+        "oral_spotlight_ratio": 0.1393
+      },
+      {
+        "keyword": "diffusion model",
+        "mentions": 701,
+        "conference_presence": 4,
+        "max_conference_share": 0.4009,
+        "oral_spotlight_ratio": 0.1512
+      },
+      {
+        "keyword": "reinforcement learning",
+        "mentions": 619,
+        "conference_presence": 3,
+        "max_conference_share": 0.4927,
+        "oral_spotlight_ratio": 0.1422
+      },
+      {
+        "keyword": "reasoning",
+        "mentions": 514,
+        "conference_presence": 3,
+        "max_conference_share": 0.6089,
+        "oral_spotlight_ratio": 0.1362
+      },
+      {
+        "keyword": "diffusion",
+        "mentions": 466,
+        "conference_presence": 4,
+        "max_conference_share": 0.3948,
+        "oral_spotlight_ratio": 0.1674
+      },
+      {
+        "keyword": "transformer",
+        "mentions": 383,
+        "conference_presence": 4,
+        "max_conference_share": 0.376,
+        "oral_spotlight_ratio": 0.1384
+      },
+      {
+        "keyword": "graph",
+        "mentions": 380,
+        "conference_presence": 4,
+        "max_conference_share": 0.3632,
+        "oral_spotlight_ratio": 0.1316
+      },
+      {
+        "keyword": "generative model",
+        "mentions": 323,
+        "conference_presence": 4,
+        "max_conference_share": 0.4087,
+        "oral_spotlight_ratio": 0.1176
+      },
+      {
+        "keyword": "multimodal",
+        "mentions": 301,
+        "conference_presence": 4,
+        "max_conference_share": 0.4286,
+        "oral_spotlight_ratio": 0.1362
+      },
+      {
+        "keyword": "video",
+        "mentions": 298,
+        "conference_presence": 4,
+        "max_conference_share": 0.5067,
+        "oral_spotlight_ratio": 0.1208
+      },
+      {
+        "keyword": "agent",
+        "mentions": 295,
+        "conference_presence": 5,
+        "max_conference_share": 0.3898,
+        "oral_spotlight_ratio": 0.1458
+      },
+      {
+        "keyword": "gnn",
+        "mentions": 280,
+        "conference_presence": 4,
+        "max_conference_share": 0.3429,
+        "oral_spotlight_ratio": 0.15
+      },
+      {
+        "keyword": "image",
+        "mentions": 267,
+        "conference_presence": 4,
+        "max_conference_share": 0.4345,
+        "oral_spotlight_ratio": 0.1161
+      },
+      {
+        "keyword": "optimization",
+        "mentions": 259,
+        "conference_presence": 3,
+        "max_conference_share": 0.4672,
+        "oral_spotlight_ratio": 0.1274
+      },
+      {
+        "keyword": "interpretability",
+        "mentions": 254,
+        "conference_presence": 4,
+        "max_conference_share": 0.3819,
+        "oral_spotlight_ratio": 0.1614
+      },
+      {
+        "keyword": "alignment",
+        "mentions": 249,
+        "conference_presence": 3,
+        "max_conference_share": 0.3936,
+        "oral_spotlight_ratio": 0.1526
+      },
+      {
+        "keyword": "deep learning",
+        "mentions": 245,
+        "conference_presence": 4,
+        "max_conference_share": 0.3469,
+        "oral_spotlight_ratio": 0.1347
+      },
+      {
+        "keyword": "data",
+        "mentions": 238,
+        "conference_presence": 4,
+        "max_conference_share": 0.4202,
+        "oral_spotlight_ratio": 0.1765
+      },
+      {
+        "keyword": "representation learning",
+        "mentions": 237,
+        "conference_presence": 4,
+        "max_conference_share": 0.3924,
+        "oral_spotlight_ratio": 0.1181
+      },
+      {
+        "keyword": "attention",
+        "mentions": 226,
+        "conference_presence": 4,
+        "max_conference_share": 0.4425,
+        "oral_spotlight_ratio": 0.1504
+      }
+    ],
+    "emerging_keywords": [
+      {
+        "keyword": "grpo",
+        "mentions": 24,
+        "conference_presence": 1,
+        "max_conference_share": 1.0,
+        "oral_spotlight_ratio": 0.1667,
+        "emerging_score": 0.75
+      },
+      {
+        "keyword": "large reasoning model",
+        "mentions": 19,
+        "conference_presence": 1,
+        "max_conference_share": 1.0,
+        "oral_spotlight_ratio": 0.1053,
+        "emerging_score": 0.7316
+      },
+      {
+        "keyword": "lrms",
+        "mentions": 23,
+        "conference_presence": 1,
+        "max_conference_share": 1.0,
+        "oral_spotlight_ratio": 0.087,
+        "emerging_score": 0.7261
+      },
+      {
+        "keyword": "reasoning model",
+        "mentions": 29,
+        "conference_presence": 2,
+        "max_conference_share": 0.931,
+        "oral_spotlight_ratio": 0.1724,
+        "emerging_score": 0.7034
+      },
+      {
+        "keyword": "spatial reasoning",
+        "mentions": 21,
+        "conference_presence": 3,
+        "max_conference_share": 0.8095,
+        "oral_spotlight_ratio": 0.2857,
+        "emerging_score": 0.6524
+      },
+      {
+        "keyword": "depth estimation",
+        "mentions": 25,
+        "conference_presence": 2,
+        "max_conference_share": 0.84,
+        "oral_spotlight_ratio": 0.12,
+        "emerging_score": 0.624
+      },
+      {
+        "keyword": "thinking",
+        "mentions": 30,
+        "conference_presence": 3,
+        "max_conference_share": 0.7667,
+        "oral_spotlight_ratio": 0.1667,
+        "emerging_score": 0.5867
+      },
+      {
+        "keyword": "flow model",
+        "mentions": 20,
+        "conference_presence": 3,
+        "max_conference_share": 0.75,
+        "oral_spotlight_ratio": 0.2,
+        "emerging_score": 0.585
+      },
+      {
+        "keyword": "depth",
+        "mentions": 61,
+        "conference_presence": 3,
+        "max_conference_share": 0.7213,
+        "oral_spotlight_ratio": 0.1803,
+        "emerging_score": 0.559
+      },
+      {
+        "keyword": "unified",
+        "mentions": 23,
+        "conference_presence": 3,
+        "max_conference_share": 0.6957,
+        "oral_spotlight_ratio": 0.2174,
+        "emerging_score": 0.5522
+      },
+      {
+        "keyword": "test-time scaling",
+        "mentions": 32,
+        "conference_presence": 3,
+        "max_conference_share": 0.75,
+        "oral_spotlight_ratio": 0.0625,
+        "emerging_score": 0.5437
+      },
+      {
+        "keyword": "dynamic scene",
+        "mentions": 21,
+        "conference_presence": 2,
+        "max_conference_share": 0.7143,
+        "oral_spotlight_ratio": 0.1429,
+        "emerging_score": 0.5429
+      },
+      {
+        "keyword": "cross-modal",
+        "mentions": 33,
+        "conference_presence": 4,
+        "max_conference_share": 0.697,
+        "oral_spotlight_ratio": 0.1818,
+        "emerging_score": 0.5424
+      },
+      {
+        "keyword": "structured",
+        "mentions": 30,
+        "conference_presence": 3,
+        "max_conference_share": 0.7,
+        "oral_spotlight_ratio": 0.1667,
+        "emerging_score": 0.54
+      },
+      {
+        "keyword": "drift",
+        "mentions": 18,
+        "conference_presence": 3,
+        "max_conference_share": 0.7222,
+        "oral_spotlight_ratio": 0.1111,
+        "emerging_score": 0.5389
+      },
+      {
+        "keyword": "emph",
+        "mentions": 44,
+        "conference_presence": 3,
+        "max_conference_share": 0.6818,
+        "oral_spotlight_ratio": 0.2045,
+        "emerging_score": 0.5386
+      },
+      {
+        "keyword": "llm reasoning",
+        "mentions": 56,
+        "conference_presence": 3,
+        "max_conference_share": 0.7143,
+        "oral_spotlight_ratio": 0.125,
+        "emerging_score": 0.5375
+      },
+      {
+        "keyword": "degradation",
+        "mentions": 27,
+        "conference_presence": 3,
+        "max_conference_share": 0.7037,
+        "oral_spotlight_ratio": 0.1481,
+        "emerging_score": 0.537
+      },
+      {
+        "keyword": "allocation",
+        "mentions": 26,
+        "conference_presence": 3,
+        "max_conference_share": 0.7308,
+        "oral_spotlight_ratio": 0.0769,
+        "emerging_score": 0.5346
+      },
+      {
+        "keyword": "texture",
+        "mentions": 26,
+        "conference_presence": 3,
+        "max_conference_share": 0.6923,
+        "oral_spotlight_ratio": 0.1538,
+        "emerging_score": 0.5308
+      }
+    ],
+    "heuristic_notes": [
+      "continuing_hotspots: present in all 3 conferences + high mention count",
+      "emerging_trends: theme-level concentration + venue-quality weighted score",
+      "keyword trends are term-level signals and may be noisy after normalization"
+    ]
+  }
+}

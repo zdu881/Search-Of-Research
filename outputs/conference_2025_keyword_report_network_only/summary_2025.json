@@ -1,0 +1,1072 @@
+{
+  "generated_at_utc": "2026-03-07T14:53:12.159520+00:00",
+  "paper_count_total": 600,
+  "conferences": [
+    "SIGCOMM",
+    "NSDI",
+    "MobiCom",
+    "INFOCOM"
+  ],
+  "conference_summary": {
+    "SIGCOMM": {
+      "paper_count": 88,
+      "track_counts": {
+        "unknown": 88
+      },
+      "top_keywords": [
+        {
+          "term": "computer science",
+          "count": 88
+        },
+        {
+          "term": "computer network",
+          "count": 28
+        },
+        {
+          "term": "network",
+          "count": 16
+        },
+        {
+          "term": "distributed computing",
+          "count": 11
+        },
+        {
+          "term": "cloud computing",
+          "count": 10
+        },
+        {
+          "term": "scale ratio",
+          "count": 9
+        },
+        {
+          "term": "traffic",
+          "count": 8
+        },
+        {
+          "term": "scalability",
+          "count": 8
+        },
+        {
+          "term": "training meteorology",
+          "count": 7
+        },
+        {
+          "term": "rdma",
+          "count": 7
+        },
+        {
+          "term": "operating system",
+          "count": 7
+        },
+        {
+          "term": "cloud",
+          "count": 6
+        },
+        {
+          "term": "remote direct memory access",
+          "count": 6
+        },
+        {
+          "term": "satellite",
+          "count": 6
+        },
+        {
+          "term": "failure",
+          "count": 6
+        },
+        {
+          "term": "artificial intelligence",
+          "count": 5
+        },
+        {
+          "term": "data center",
+          "count": 5
+        },
+        {
+          "term": "internet",
+          "count": 5
+        },
+        {
+          "term": "training",
+          "count": 5
+        },
+        {
+          "term": "scheduling production processe",
+          "count": 4
+        },
+        {
+          "term": "control",
+          "count": 4
+        },
+        {
+          "term": "embedded system",
+          "count": 4
+        },
+        {
+          "term": "remote sensing",
+          "count": 4
+        },
+        {
+          "term": "parallel computing",
+          "count": 4
+        },
+        {
+          "term": "plane",
+          "count": 4
+        },
+        {
+          "term": "real-time computing",
+          "count": 4
+        },
+        {
+          "term": "inference",
+          "count": 4
+        },
+        {
+          "term": "streaming",
+          "count": 4
+        },
+        {
+          "term": "video",
+          "count": 4
+        },
+        {
+          "term": "scaling",
+          "count": 3
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "Other",
+          "count": 40
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 17
+        },
+        {
+          "term": "Optimization and Theory",
+          "count": 13
+        },
+        {
+          "term": "LLM",
+          "count": 12
+        },
+        {
+          "term": "Vision",
+          "count": 9
+        },
+        {
+          "term": "Graphs",
+          "count": 5
+        },
+        {
+          "term": "Alignment and Safety",
+          "count": 4
+        },
+        {
+          "term": "Reasoning and Agents",
+          "count": 3
+        },
+        {
+          "term": "Multimodal",
+          "count": 1
+        },
+        {
+          "term": "Reinforcement Learning",
+          "count": 1
+        }
+      ]
+    },
+    "NSDI": {
+      "paper_count": 83,
+      "track_counts": {
+        "unknown": 83
+      },
+      "top_keywords": [
+        {
+          "term": "network",
+          "count": 8
+        },
+        {
+          "term": "datacenter",
+          "count": 5
+        },
+        {
+          "term": "control",
+          "count": 5
+        },
+        {
+          "term": "distributed",
+          "count": 5
+        },
+        {
+          "term": "enabling",
+          "count": 5
+        },
+        {
+          "term": "application",
+          "count": 4
+        },
+        {
+          "term": "cloud",
+          "count": 4
+        },
+        {
+          "term": "verification",
+          "count": 4
+        },
+        {
+          "term": "transport",
+          "count": 4
+        },
+        {
+          "term": "efficient",
+          "count": 4
+        },
+        {
+          "term": "packet",
+          "count": 4
+        },
+        {
+          "term": "scheduling",
+          "count": 4
+        },
+        {
+          "term": "storage",
+          "count": 3
+        },
+        {
+          "term": "traffic",
+          "count": 3
+        },
+        {
+          "term": "program",
+          "count": 3
+        },
+        {
+          "term": "large",
+          "count": 3
+        },
+        {
+          "term": "using",
+          "count": 3
+        },
+        {
+          "term": "accelerating",
+          "count": 3
+        },
+        {
+          "term": "protocol",
+          "count": 3
+        },
+        {
+          "term": "llm",
+          "count": 3
+        },
+        {
+          "term": "training",
+          "count": 3
+        },
+        {
+          "term": "model training",
+          "count": 3
+        },
+        {
+          "term": "scalability",
+          "count": 3
+        },
+        {
+          "term": "programmable",
+          "count": 3
+        },
+        {
+          "term": "packet scheduling",
+          "count": 3
+        },
+        {
+          "term": "detection",
+          "count": 2
+        },
+        {
+          "term": "mitigation",
+          "count": 2
+        },
+        {
+          "term": "shared",
+          "count": 2
+        },
+        {
+          "term": "programmability",
+          "count": 2
+        },
+        {
+          "term": "resource",
+          "count": 2
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "Other",
+          "count": 63
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 7
+        },
+        {
+          "term": "LLM",
+          "count": 5
+        },
+        {
+          "term": "Vision",
+          "count": 3
+        },
+        {
+          "term": "Alignment and Safety",
+          "count": 2
+        },
+        {
+          "term": "Optimization and Theory",
+          "count": 2
+        },
+        {
+          "term": "Reinforcement Learning",
+          "count": 2
+        }
+      ]
+    },
+    "MobiCom": {
+      "paper_count": 157,
+      "track_counts": {
+        "unknown": 157
+      },
+      "top_keywords": [
+        {
+          "term": "sensing",
+          "count": 14
+        },
+        {
+          "term": "signal",
+          "count": 9
+        },
+        {
+          "term": "computer science",
+          "count": 9
+        },
+        {
+          "term": "radar",
+          "count": 8
+        },
+        {
+          "term": "wireless",
+          "count": 8
+        },
+        {
+          "term": "mobile",
+          "count": 8
+        },
+        {
+          "term": "mmwave",
+          "count": 7
+        },
+        {
+          "term": "communication",
+          "count": 7
+        },
+        {
+          "term": "llm",
+          "count": 7
+        },
+        {
+          "term": "camera",
+          "count": 7
+        },
+        {
+          "term": "detection",
+          "count": 7
+        },
+        {
+          "term": "lora",
+          "count": 6
+        },
+        {
+          "term": "device",
+          "count": 6
+        },
+        {
+          "term": "localization",
+          "count": 6
+        },
+        {
+          "term": "demo",
+          "count": 6
+        },
+        {
+          "term": "range",
+          "count": 5
+        },
+        {
+          "term": "frequency",
+          "count": 5
+        },
+        {
+          "term": "update",
+          "count": 5
+        },
+        {
+          "term": "ble",
+          "count": 5
+        },
+        {
+          "term": "power",
+          "count": 5
+        },
+        {
+          "term": "mobile device",
+          "count": 5
+        },
+        {
+          "term": "monitoring",
+          "count": 5
+        },
+        {
+          "term": "training",
+          "count": 5
+        },
+        {
+          "term": "vehicle",
+          "count": 5
+        },
+        {
+          "term": "wifi",
+          "count": 5
+        },
+        {
+          "term": "autonomou",
+          "count": 5
+        },
+        {
+          "term": "inference",
+          "count": 5
+        },
+        {
+          "term": "image",
+          "count": 5
+        },
+        {
+          "term": "edge",
+          "count": 5
+        },
+        {
+          "term": "wi-fi",
+          "count": 4
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "Other",
+          "count": 47
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 38
+        },
+        {
+          "term": "Alignment and Safety",
+          "count": 36
+        },
+        {
+          "term": "Vision",
+          "count": 35
+        },
+        {
+          "term": "LLM",
+          "count": 25
+        },
+        {
+          "term": "Reasoning and Agents",
+          "count": 18
+        },
+        {
+          "term": "Optimization and Theory",
+          "count": 16
+        },
+        {
+          "term": "Multimodal",
+          "count": 9
+        },
+        {
+          "term": "Diffusion",
+          "count": 8
+        },
+        {
+          "term": "Graphs",
+          "count": 8
+        }
+      ]
+    },
+    "INFOCOM": {
+      "paper_count": 272,
+      "track_counts": {
+        "unknown": 272
+      },
+      "top_keywords": [
+        {
+          "term": "network",
+          "count": 28
+        },
+        {
+          "term": "computer science",
+          "count": 18
+        },
+        {
+          "term": "federated",
+          "count": 17
+        },
+        {
+          "term": "federated learning",
+          "count": 14
+        },
+        {
+          "term": "edge",
+          "count": 12
+        },
+        {
+          "term": "communication",
+          "count": 11
+        },
+        {
+          "term": "online",
+          "count": 11
+        },
+        {
+          "term": "efficient",
+          "count": 10
+        },
+        {
+          "term": "collaborative",
+          "count": 10
+        },
+        {
+          "term": "llm",
+          "count": 10
+        },
+        {
+          "term": "adaptive",
+          "count": 9
+        },
+        {
+          "term": "mobile",
+          "count": 9
+        },
+        {
+          "term": "attack",
+          "count": 9
+        },
+        {
+          "term": "dynamic",
+          "count": 8
+        },
+        {
+          "term": "optimization",
+          "count": 8
+        },
+        {
+          "term": "fast",
+          "count": 8
+        },
+        {
+          "term": "sensing",
+          "count": 7
+        },
+        {
+          "term": "deep",
+          "count": 7
+        },
+        {
+          "term": "system",
+          "count": 7
+        },
+        {
+          "term": "routing",
+          "count": 7
+        },
+        {
+          "term": "wi-fi",
+          "count": 7
+        },
+        {
+          "term": "quantum",
+          "count": 7
+        },
+        {
+          "term": "inference",
+          "count": 7
+        },
+        {
+          "term": "computing",
+          "count": 7
+        },
+        {
+          "term": "detection",
+          "count": 7
+        },
+        {
+          "term": "blockchain",
+          "count": 6
+        },
+        {
+          "term": "localization",
+          "count": 6
+        },
+        {
+          "term": "mmwave",
+          "count": 6
+        },
+        {
+          "term": "data",
+          "count": 6
+        },
+        {
+          "term": "packet",
+          "count": 6
+        }
+      ],
+      "top_themes": [
+        {
+          "term": "Other",
+          "count": 187
+        },
+        {
+          "term": "Robotics and Control",
+          "count": 17
+        },
+        {
+          "term": "Optimization and Theory",
+          "count": 17
+        },
+        {
+          "term": "Vision",
+          "count": 16
+        },
+        {
+          "term": "Graphs",
+          "count": 14
+        },
+        {
+          "term": "LLM",
+          "count": 12
+        },
+        {
+          "term": "Alignment and Safety",
+          "count": 9
+        },
+        {
+          "term": "Diffusion",
+          "count": 5
+        },
+        {
+          "term": "Reinforcement Learning",
+          "count": 5
+        },
+        {
+          "term": "Multimodal",
+          "count": 3
+        },
+        {
+          "term": "Reasoning and Agents",
+          "count": 3
+        }
+      ]
+    }
+  },
+  "global_top_keywords": [
+    {
+      "term": "computer science",
+      "count": 115
+    },
+    {
+      "term": "network",
+      "count": 52
+    },
+    {
+      "term": "computer network",
+      "count": 31
+    },
+    {
+      "term": "llm",
+      "count": 23
+    },
+    {
+      "term": "communication",
+      "count": 21
+    },
+    {
+      "term": "sensing",
+      "count": 21
+    },
+    {
+      "term": "edge",
+      "count": 20
+    },
+    {
+      "term": "federated",
+      "count": 20
+    },
+    {
+      "term": "mobile",
+      "count": 19
+    },
+    {
+      "term": "traffic",
+      "count": 18
+    },
+    {
+      "term": "inference",
+      "count": 17
+    },
+    {
+      "term": "detection",
+      "count": 17
+    },
+    {
+      "term": "cloud",
+      "count": 16
+    },
+    {
+      "term": "training",
+      "count": 16
+    },
+    {
+      "term": "efficient",
+      "count": 16
+    },
+    {
+      "term": "federated learning",
+      "count": 16
+    },
+    {
+      "term": "wireless",
+      "count": 15
+    },
+    {
+      "term": "distributed computing",
+      "count": 14
+    },
+    {
+      "term": "control",
+      "count": 14
+    },
+    {
+      "term": "scalability",
+      "count": 14
+    },
+    {
+      "term": "localization",
+      "count": 14
+    },
+    {
+      "term": "distributed",
+      "count": 14
+    },
+    {
+      "term": "rdma",
+      "count": 13
+    },
+    {
+      "term": "mmwave",
+      "count": 13
+    },
+    {
+      "term": "attack",
+      "count": 13
+    },
+    {
+      "term": "scheduling",
+      "count": 12
+    },
+    {
+      "term": "dynamic",
+      "count": 12
+    },
+    {
+      "term": "service",
+      "count": 12
+    },
+    {
+      "term": "optimization",
+      "count": 12
+    },
+    {
+      "term": "system",
+      "count": 12
+    },
+    {
+      "term": "data",
+      "count": 12
+    },
+    {
+      "term": "packet",
+      "count": 12
+    },
+    {
+      "term": "backscatter",
+      "count": 12
+    },
+    {
+      "term": "streaming",
+      "count": 12
+    },
+    {
+      "term": "video",
+      "count": 12
+    },
+    {
+      "term": "signal",
+      "count": 12
+    },
+    {
+      "term": "cloud computing",
+      "count": 11
+    },
+    {
+      "term": "application",
+      "count": 11
+    },
+    {
+      "term": "congestion",
+      "count": 11
+    },
+    {
+      "term": "computing",
+      "count": 11
+    },
+    {
+      "term": "adaptive",
+      "count": 11
+    },
+    {
+      "term": "radar",
+      "count": 11
+    },
+    {
+      "term": "wi-fi",
+      "count": 11
+    },
+    {
+      "term": "collaborative",
+      "count": 11
+    },
+    {
+      "term": "online",
+      "count": 11
+    },
+    {
+      "term": "artificial intelligence",
+      "count": 10
+    },
+    {
+      "term": "satellite",
+      "count": 10
+    },
+    {
+      "term": "power",
+      "count": 10
+    },
+    {
+      "term": "enabling",
+      "count": 10
+    },
+    {
+      "term": "lora",
+      "count": 10
+    },
+    {
+      "term": "device",
+      "count": 10
+    },
+    {
+      "term": "training meteorology",
+      "count": 9
+    },
+    {
+      "term": "congestion control",
+      "count": 9
+    },
+    {
+      "term": "management",
+      "count": 9
+    },
+    {
+      "term": "scale ratio",
+      "count": 9
+    },
+    {
+      "term": "analysi",
+      "count": 9
+    },
+    {
+      "term": "user",
+      "count": 9
+    },
+    {
+      "term": "scalable",
+      "count": 9
+    },
+    {
+      "term": "deep",
+      "count": 9
+    },
+    {
+      "term": "fast",
+      "count": 9
+    }
+  ],
+  "global_top_themes": [
+    {
+      "term": "Other",
+      "count": 337
+    },
+    {
+      "term": "Robotics and Control",
+      "count": 79
+    },
+    {
+      "term": "Vision",
+      "count": 63
+    },
+    {
+      "term": "LLM",
+      "count": 54
+    },
+    {
+      "term": "Alignment and Safety",
+      "count": 51
+    },
+    {
+      "term": "Optimization and Theory",
+      "count": 48
+    },
+    {
+      "term": "Graphs",
+      "count": 27
+    },
+    {
+      "term": "Reasoning and Agents",
+      "count": 24
+    },
+    {
+      "term": "Multimodal",
+      "count": 13
+    },
+    {
+      "term": "Diffusion",
+      "count": 13
+    },
+    {
+      "term": "Reinforcement Learning",
+      "count": 8
+    }
+  ],
+  "trends": {
+    "continuing_hotspots": [
+      {
+        "theme": "Robotics and Control",
+        "paper_mentions": 79,
+        "conference_presence": 4,
+        "oral_spotlight_ratio": 0.0,
+        "max_conference_share": 0.481
+      },
+      {
+        "theme": "Vision",
+        "paper_mentions": 63,
+        "conference_presence": 4,
+        "oral_spotlight_ratio": 0.0,
+        "max_conference_share": 0.5556
+      }
+    ],
+    "emerging_trends": [
+      {
+        "theme": "Alignment and Safety",
+        "paper_mentions": 51,
+        "conference_presence": 4,
+        "oral_spotlight_ratio": 0.0,
+        "max_conference_share": 0.7059,
+        "emerging_score": 0.4588
+      },
+      {
+        "theme": "Graphs",
+        "paper_mentions": 27,
+        "conference_presence": 3,
+        "oral_spotlight_ratio": 0.0,
+        "max_conference_share": 0.5185,
+        "emerging_score": 0.337
+      },
+      {
+        "theme": "LLM",
+        "paper_mentions": 54,
+        "conference_presence": 4,
+        "oral_spotlight_ratio": 0.0,
+        "max_conference_share": 0.463,
+        "emerging_score": 0.301
+      },
+      {
+        "theme": "Optimization and Theory",
+        "paper_mentions": 48,
+        "conference_presence": 4,
+        "oral_spotlight_ratio": 0.0,
+        "max_conference_share": 0.3542,
+        "emerging_score": 0.2302
+      }
+    ],
+    "continuing_keywords": [
+      {
+        "keyword": "computer science",
+        "mentions": 115,
+        "conference_presence": 3,
+        "max_conference_share": 0.7652,
+        "oral_spotlight_ratio": 0.0
+      }
+    ],
+    "emerging_keywords": [
+      {
+        "keyword": "computer network",
+        "mentions": 31,
+        "conference_presence": 2,
+        "max_conference_share": 0.9032,
+        "oral_spotlight_ratio": 0.0,
+        "emerging_score": 0.6323
+      },
+      {
+        "keyword": "federated",
+        "mentions": 20,
+        "conference_presence": 2,
+        "max_conference_share": 0.85,
+        "oral_spotlight_ratio": 0.0,
+        "emerging_score": 0.595
+      },
+      {
+        "keyword": "sensing",
+        "mentions": 21,
+        "conference_presence": 2,
+        "max_conference_share": 0.6667,
+        "oral_spotlight_ratio": 0.0,
+        "emerging_score": 0.4667
+      },
+      {
+        "keyword": "edge",
+        "mentions": 20,
+        "conference_presence": 4,
+        "max_conference_share": 0.6,
+        "oral_spotlight_ratio": 0.0,
+        "emerging_score": 0.42
+      }
+    ],
+    "heuristic_notes": [
+      "continuing_hotspots: present in all 3 conferences + high mention count",
+      "emerging_trends: theme-level concentration + venue-quality weighted score",
+      "keyword trends are term-level signals and may be noisy after normalization"
+    ]
+  }
+}
